@@ -6,7 +6,7 @@ Um bot no Discord programado em **Python** que realiza votações entre dois can
 1. Os usuários votam digitando a sigla dos candidatos no chat. 
    - Exemplo: `GF` para *Gravity Falls* e `APS` para *Apenas um Show*.
 
-  <img src="/assets/download.gif" alt="Discord Exemplo">
+  <img src="/assets/discord.gif" alt="Discord Exemplo">
 
 2. O bot contabiliza os votos e gera um arquivo `.json` com os resultados:
    ```json
@@ -31,7 +31,7 @@ Esse projeto é inspirado no antigo programa do **Cartoon Network**, o *Votatoon
 ## 🎥 Integração com vMix
 Os resultados das votações são enviados automaticamente para o **vMix**, um software profissional de transmissão ao vivo, garantindo que a audiência veja as atualizações em tempo real. 
 
-![vMix](https://upload.wikimedia.org/wikipedia/en/2/2b/VMix_logo.png)
+  <img src="/assets/download.gif" alt="Discord Exemplo">
 
 ## 🚀 Como usar?
 1. **Configure o bot** no seu servidor do Discord.
