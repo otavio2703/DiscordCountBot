@@ -26,7 +26,7 @@ Um bot no Discord programado em **Python** que realiza votações entre dois can
 ## 🎭 Inspirado no Votatoon!
 Esse projeto é inspirado no antigo programa do **Cartoon Network**, o *Votatoon*, onde o público escolhia entre dois desenhos e o vencedor era exibido na programação. 
 
-![Votatoon](https://static.wikia.nocookie.net/cartoon-nexus/images/2/2b/Votatoon.png/)
+  <img src="/assets/votatoon.png" alt="VotaToon">
 
 ## 🎥 Integração com vMix
 Os resultados das votações são enviados automaticamente para o **vMix**, um software profissional de transmissão ao vivo, garantindo que a audiência veja as atualizações em tempo real. 
