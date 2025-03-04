@@ -6,7 +6,7 @@ Um bot no Discord programado em **Python** que realiza votações entre dois can
 1. Os usuários votam digitando a sigla dos candidatos no chat. 
    - Exemplo: `GF` para *Gravity Falls* e `APS` para *Apenas um Show*.
 
-   ![Votação no Discord](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+  <img src="/assets/download.gif" alt="Discord Exemplo">
 
 2. O bot contabiliza os votos e gera um arquivo `.json` com os resultados:
    ```json
